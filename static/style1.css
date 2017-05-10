@@ -3,12 +3,12 @@
 }
 
 .header h1 {
-  padding: 100px;
+  <!-- padding: 100px; -->
   margin: 0;
 }
 
 .header {
-    background-color: #ccc;
+    background-color: black;
     text-align: center;
 }
 
