@@ -1,13 +1,18 @@
 header {
-    margin: 0;
-    background-color: #414141;
+    background-color: black;
 }
+
+header h1 {
+    margin: 0;
+    padding: 100px;
+}
+
 body {
-    background-color: powderblue;
+    margin: 0;
 }
 h1 {
     color: white;
 }
 p {
-    color: yellow;
+    color: red;
 }
