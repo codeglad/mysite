@@ -1,5 +1,4 @@
 .header img {
-  float: right;
   width: 150px;
   height: 150px;
   background: #555;
@@ -11,13 +10,13 @@
   position: relative;
   top: 18px;
   left: 10px;
-  text-align: center;
   padding: 100px;
   margin: 0;
 }
 
 .header {
     background-color: black;
+    text-align: center;
 }
 
 
